@@ -12,7 +12,7 @@ public:
         }
         s = "";
         while(!st.empty()){
-            s += st.top();
+            s.push_back(st.top());
             st.pop();
         }
         reverse(s.begin(), s.end());
