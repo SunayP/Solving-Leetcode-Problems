@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0907-koko-eating-bananas](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
