@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -78,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0907-koko-eating-bananas](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
