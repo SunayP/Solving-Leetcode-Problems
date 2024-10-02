@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
