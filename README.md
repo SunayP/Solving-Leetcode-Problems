@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0078-subsets) |
+| [0283-move-zeroes](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0907-koko-eating-bananas](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
