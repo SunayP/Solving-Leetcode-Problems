@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 ## Math
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
