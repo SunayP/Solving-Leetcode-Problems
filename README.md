@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1755-defuse-the-bomb](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 ## Brainteaser
 |  |
 | ------- |
