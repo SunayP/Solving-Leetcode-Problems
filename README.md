@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0907-koko-eating-bananas](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
