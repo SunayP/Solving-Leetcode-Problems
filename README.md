@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -184,16 +185,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
