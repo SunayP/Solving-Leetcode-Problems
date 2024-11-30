@@ -16,20 +16,18 @@ public:
 
         int lh = level(n->left);
         int lr = level(n->right);
-
+        if(lh==-1 || lr == -1){
+            return -1;
+        }
+        if(abs(lh-lr) >1){
+            return -1;
+        }
         return 1+max(lh, lr);
     }
     bool isBalanced(TreeNode* root) {
-        if(root == NULL){return true;}
-        if(abs(level(root->left)-level(root->right)) > 1){
+        if(level(root) == -1){
             return false;
         }
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-        if(!left || !right){
-            return false;
-        }
-
         return true;
     }
 };
