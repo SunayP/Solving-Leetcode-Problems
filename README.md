@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2232-adding-spaces-to-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2232-adding-spaces-to-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
