@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
