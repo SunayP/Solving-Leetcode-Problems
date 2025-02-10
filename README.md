@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3447-clear-digits](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
