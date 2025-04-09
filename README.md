@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
 |  |
