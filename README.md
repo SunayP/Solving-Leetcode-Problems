@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
