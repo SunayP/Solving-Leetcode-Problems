@@ -4,7 +4,9 @@ public:
         map<vector<int>, int> mp;
         int pairs = 0;
         for(int i=0; i<dominoes.size(); i++){
-            sort(dominoes[i].begin(), dominoes[i].end());
+           if(dominoes[i][0] > dominoes[i][1]){
+            swap(dominoes[i][0], dominoes[i][1]);
+           }
             if(mp[dominoes[i]] > 0){
                 pairs += mp[dominoes[i]];
             }
