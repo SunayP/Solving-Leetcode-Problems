@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2048-build-array-from-permutation](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
