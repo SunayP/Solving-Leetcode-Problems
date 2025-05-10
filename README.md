@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2358-number-of-ways-to-split-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
