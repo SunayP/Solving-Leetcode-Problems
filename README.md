@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0978-valid-mountain-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0978-valid-mountain-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
