@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0584-find-customer-referee) |
