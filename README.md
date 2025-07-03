@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -205,10 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
