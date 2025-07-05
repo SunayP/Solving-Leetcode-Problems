@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
