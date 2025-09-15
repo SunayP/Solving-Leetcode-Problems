@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
