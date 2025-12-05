@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2358-number-of-ways-to-split-array](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SunayP/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
